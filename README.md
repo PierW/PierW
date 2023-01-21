@@ -1,7 +1,7 @@
 ### Hi there, I'm Pierpaolo - aka [PeterDev][website] 👋
 
 [![Website](https://img.shields.io/website?label=pierw.github.io/&style=for-the-badge&url=https%3A%2F%2Fpierw.github.io)](https://pierw.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/pierpaolow?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/pierpaolow)
+[![Twitter Follow](https://img.shields.io/badge/twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/pierpaolow)
 
 ## I'm a Millenial dreamer!
 
